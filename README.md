@@ -1,5 +1,4 @@
 ### Hi there 👋
-**---**
 🌱 Weclome to my Github page, I'm Shangguan
 <br>
 
@@ -9,7 +8,7 @@
 📝 Check out <a href="https://dev.to/shangguanwang" target="_blank">my blog</a> where I document my coding journey
 <br>
 
-📫 Reach me at my mailto:wangshangguan@hotmail.com or <a href="https://www.linkedin.com/in/shangguan-wang/">LinkedIn</a>
+📫 Reach me at my wangshangguan@hotmail.com or <a href="https://www.linkedin.com/in/shangguan-wang/">LinkedIn</a>
 <br>
 
 💪 I'm currently working on #100DaysofCode challenges, and my React personal project
