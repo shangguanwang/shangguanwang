@@ -2,7 +2,7 @@
 🌱 Weclome to my Github page, I'm Shangguan
 <br>
 
-👀 I'm an aspiring self-taught Frontend Developer with a passion for creating beautiful and interactive web experiences. I enjoy working with the latest technologies and frameworks, including JavaScript and React. I've completed several projects on my own, including an <a href="https://github.com/shangguanwang/little-joy-firebase">app to record joyful moments</a>, an <a href="https://github.com/shangguanwang/NFT-Gallery" target="_blank">NFT Art Gallery</a> and a <a href="https://github.com/shangguanwang/travel-journal" target="_blank">Travel Journal</a>. <br>
+👀 I'm an aspiring self-taught Frontend Developer with a passion for building meaningful products. I enjoy working with the latest technologies and frameworks, including JavaScript and React. I've completed several projects on my own, including an <a href="https://github.com/shangguanwang/little-joy-firebase">app to record joyful moments</a>, an <a href="https://github.com/shangguanwang/NFT-Gallery" target="_blank">NFT Art Gallery</a> and a <a href="https://github.com/shangguanwang/travel-journal" target="_blank">Travel Journal</a>. <br>
 I have a background in data analytics and 3+ years of professional experience in IT Consulting as a bid manager.
 <br>
 
