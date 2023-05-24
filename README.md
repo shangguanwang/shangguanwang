@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=shangguanwang)
 🌱 Weclome to my Github page, I'm Shangguan
 <br>
 
