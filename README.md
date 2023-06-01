@@ -15,6 +15,8 @@ I have a background in data analytics and 3+ years of professional experience in
 
 💪 I'm currently working on #100DaysofCode challenges, and my React personal project
 
+# 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shangguanwang&theme=graywhite)](https://git.io/streak-stats)
 
 <!--
 **shangguanwang/shangguanwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
