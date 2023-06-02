@@ -16,6 +16,8 @@ I have a background in data analytics and 3+ years of professional experience in
 💪 I'm currently working on #100DaysofCode challenges, and my React personal project
 
 # 📊 GitHub Stats:
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shangguanwang&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shangguanwang&theme=graywhite)](https://git.io/streak-stats)
 
 <!--
