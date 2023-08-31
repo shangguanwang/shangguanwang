@@ -3,7 +3,7 @@
 🌱 Weclome to my Github page, I'm Shangguan
 <br>
 
-👀 I'm an aspiring self-taught Frontend Developer with a passion for building meaningful products. I enjoy working with the latest technologies and frameworks, including JavaScript and React. I've completed several projects on my own, including an <a href="https://github.com/shangguanwang/little-joy-firebase">app to record joyful moments</a>, a <a href="https://github.com/shangguanwang/Tasky" target="_blank">todo list TypeScript app</a> and a <a href="https://github.com/shangguanwang/bookshop" target="_blank">Bookshop app</a>. <br>
+👀 I'm a self-taught Frontend Developer with a passion for building meaningful products. I enjoy working with the latest technologies and frameworks, including JavaScript and React. I've completed several projects on my own, including an <a href="https://github.com/shangguanwang/little-joy-firebase">app to record joyful moments</a>, a <a href="https://github.com/shangguanwang/Tasky" target="_blank">todo list TypeScript app</a> and a <a href="https://github.com/shangguanwang/bookshop" target="_blank">Bookshop app</a>. <br>
 I have a background in data analytics and 3+ years of professional experience in IT Consulting as a bid manager.
 <br>
 
