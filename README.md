@@ -3,10 +3,15 @@
 🌱 Weclome to my Github page, I'm Shangguan
 <br>
 
-👀 I'm a self-taught Frontend Developer with a passion for building meaningful products. I enjoy working with the latest technologies and frameworks, including JavaScript and React. I've completed several projects on my own, including an <a href="https://github.com/shangguanwang/little-joy-firebase">app to record joyful moments</a>, a <a href="https://github.com/shangguanwang/Tasky" target="_blank">todo list TypeScript app</a> and a <a href="https://github.com/shangguanwang/bookshop" target="_blank">Bookshop app</a>. <br>
-I have a background in data analytics and 3+ years of professional experience in IT Consulting as a bid manager.
-<br>
-💪 I'm currently working on <a href="https://github.com/shangguanwang/100-days-of-code/blob/master/round2-log.md">#100DaysofCode</a> challenges, and my personal projects
+👀 I'm a self-taught Frontend Developer with a passion for building meaningful products, proficient in React and JavaScript.
+
+### Projects:
+- [BerryCart Shopping List](https://tcl-63-smart-shopping-list.web.app/) 🍓
+- [Little Joy](https://littlejoy.netlify.app/) 🌸
+- [TypeScript todo list](https://tasky2023.netlify.app/) 📝
+
+  
+💪 I'm currently working on <a href="https://github.com/shangguanwang/100-days-of-code/blob/master/round2-log.md">#100DaysofCode</a> challenges, and building apps with React/JavaScript/TypeScript.
 
 ### Tech Stack:
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
