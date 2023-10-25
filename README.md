@@ -7,6 +7,7 @@
 
 ### Projects:
 - [BerryCart Shopping List](https://tcl-63-smart-shopping-list.web.app/) 🍓
+- [NFT Marketplace](https://nft-marketplace-home.netlify.app/) 🖼️
 - [Little Joy](https://littlejoy.netlify.app/) 🌸
 - [TypeScript todo list](https://tasky2023.netlify.app/) 📝
 
