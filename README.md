@@ -12,7 +12,7 @@
 - [TypeScript todo list](https://tasky2023.netlify.app/) 📝
 
   
-💪 I'm currently working on <a href="https://github.com/shangguanwang/100-days-of-code/blob/master/round3-log.md">#100DaysofCode</a> challenges, and building apps with React/JavaScript/TypeScript.
+💪 I'm currently working as a frontend engineer at a startup, continuing <a href="https://github.com/shangguanwang/100-days-of-code/blob/master/round3-log.md">#100DaysofCode</a> challenges, and contributing to open-source projects.
 
 ### Tech Stack:
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
